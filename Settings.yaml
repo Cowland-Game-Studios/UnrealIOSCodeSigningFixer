@@ -1,0 +1,6 @@
+#Put the full path to your *ProjectName*/Binaries/IOS/Payload/*AppName.app*
+#Example: "/Users/mootbing/Desktop/Unreal_Projects/my-balls/MyBalls/Binaries/IOS/Payload/MyBalls.app""
+Path: "/Users/mootbing/Desktop/Unreal_Projects/my-balls/MyBalls/Binaries/IOS/Payload/MyBalls.app"
+
+#Delay between each clears (integer)
+Delay: 5
