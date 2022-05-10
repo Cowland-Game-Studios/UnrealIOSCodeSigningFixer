@@ -17,3 +17,5 @@ Supported Versions:
 5. Should work!
 
 Here's a video demonstration
+
+Note: Marked for integration in Unrealify V2
